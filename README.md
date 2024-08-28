@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pessoa
+- 👋 Hi, I’m Pessoa i am a person
 - 👀 I’m interested in playing games
 - 🌱 I’m currently learning Html and Css
 - 💞️ I’m looking to collaborate on ...
