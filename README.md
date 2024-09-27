@@ -1,6 +1,6 @@
 -  Hi, I’m Pessoa i am a person
 -  I’m interested in playing games
--  I’m currently learning HTML and CSS
+-  I’m currently learning JavaScript
 -  I’m looking to collaborate on... Somewhere... yes somewhere sounds good
 -  How to reach me: At the moment, you don't unless you are my teacher.
 -  Pronouns: Vossa majestade
