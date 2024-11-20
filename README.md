@@ -1,6 +1,6 @@
 -  Hi, I’m Pessoa i am a person
 -  I’m interested in playing games
--  I’m currently learning node... so if you're looking for a node, you're in the wrong place
+-  I’m currently learning node
 -  I’m looking to collaborate on... Somewhere... yes somewhere sounds good
 -  How to reach me: At the moment, you don't unless you are my teacher.
 -  Pronouns: Vossa majestade
